@@ -1,8 +1,7 @@
 # Learn Python 3 - Codecademy
-_____
 
 ### 01. Hello World 
-_____
+___
 
 ##### Block Letters
 
