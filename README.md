@@ -35,3 +35,16 @@ You are a student and you are trying to organize your subjects and grades using 
 ##### Len's Slice
 
 You work at Len’s Slice, a new pizza joint in the neighborhood. You are going to use your knowledge of Python lists to organize some of your sales data.
+
+## 04. Loops
+
+#### Carly's Clippers
+
+You are the Data Analyst at Carly’s Clippers, the newest hair salon on the block. Your job is to go through the lists of data that have been collected in the past couple of weeks. You will be calculating some important metrics that Carly can use to plan out the operation of the business for the rest of the month.
+
+You have been provided with three lists:
+1. hairstyles: the names of the cuts offered at Carly’s Clippers.
+2. prices: the price of each hairstyle in the hairstyles list.
+3. last_week: the number of purchases for each hairstyle type in the last week.
+Each index in hairstyles corresponds to an associated index in prices and last_week.
+
