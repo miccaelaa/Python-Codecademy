@@ -50,3 +50,7 @@ You have been provided with three lists:
 Each index in hairstyles corresponds to an associated index in prices and last_week.
 
 ## 05. Functions
+
+#### Getting Ready for Physics Class
+
+You are a physics teacher preparing for the upcoming semester. You want to provide your students with some functions that will help them calculate some fundamental physical properties.
