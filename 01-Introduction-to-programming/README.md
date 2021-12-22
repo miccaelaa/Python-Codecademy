@@ -49,3 +49,4 @@ You have been provided with three lists:
 
 Each index in hairstyles corresponds to an associated index in prices and last_week.
 
+## 05. Functions
