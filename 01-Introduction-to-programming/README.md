@@ -54,3 +54,9 @@ Each index in hairstyles corresponds to an associated index in prices and last_w
 #### Getting Ready for Physics Class
 
 You are a physics teacher preparing for the upcoming semester. You want to provide your students with some functions that will help them calculate some fundamental physical properties.
+
+## 06. Basic Git Workflow
+
+#### The Boredless Tourist
+
+Welcome to The Boredless Tourist, an online application giving you the power to find the parts of the city that fit the pace of your life. We at The Boredless Tourist run a recommendation engine using Python. We first evaluate what a person’s interests are and then give them recommendations in their area to venues, restaurants, and historical destinations that we think they’ll be engaged by. Let’s get started!
