@@ -73,6 +73,12 @@ All day, for each transaction, the name of the customer, amount spent, types of 
 
 ## Dictionaries
 
-## 11. Scrabble
+#### 11. Scrabble
 
 In this project, you will process some data from a group of friends playing scrabble. You will use dictionaries to organize players, words, and points.
+
+## Classes 
+
+#### 12. Basta Fazoolin'
+
+You’ve started position as the lead programmer for the family-style Italian restaurant Basta Fazoolin’ with My Heart. The restaurant has been doing fantastically and seen a lot of growth lately. You’ve been hired to keep things organized.
