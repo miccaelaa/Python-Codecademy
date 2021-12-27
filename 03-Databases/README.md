@@ -12,7 +12,7 @@ In this project, you will create your own friends table and add/delete data from
 
 We have put together a table of restaurants called nomnom and we need your help to answer some questions. Use the SQL commands you just learned and find the best dinner spots in the city.
 
-## Aggreagate Functions
+## Aggregate Functions
 
 #### 03.Trends in Startups
 
