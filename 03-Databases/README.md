@@ -51,3 +51,9 @@ Suppose you are a Data Analyst at Lyft, a ride-sharing platform. For a project, 
 #### 06.Build A Menu For Bytes Of China
 
 A new restaurant, Bytes of China, has just moved to a busy street in Chinatown from a previous location. Bytes of China has hired you to design its database schema so that it can display its menu on its new website. It has provided you with a copy of its current menu.
+
+## Triggers
+
+#### 07.Database Triggers
+
+We are running an online watch store and need to make sure we have a record of when customer information is modified and to ensure changes match our business rules. We will be looking at a small subset of this database server and examining two tables, customers and customers_log. The information in these tables were randomly generated.
