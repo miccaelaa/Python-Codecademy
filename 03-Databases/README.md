@@ -57,3 +57,13 @@ A new restaurant, Bytes of China, has just moved to a busy street in Chinatown f
 #### 07.Database Triggers
 
 We are running an online watch store and need to make sure we have a record of when customer information is modified and to ensure changes match our business rules. We will be looking at a small subset of this database server and examining two tables, customers and customers_log. The information in these tables were randomly generated.
+
+## How Do I Make Sure My Database Stays Intact?
+
+#### 08.Building an Inventory Database with PostgreSQL
+
+In this project you’ll build out a database schema that could be used to organize an inventory of mechanical parts. This schema will keep track of all the parts, their manufacturer, category, location in storeroom, available inventory, and other relevant information.
+
+A database like this might be updated and queried by an inventory management application that accepts input from many users who might not be familiar with the database structure. As a result, we should make sure that there are sufficient data quality checks to ensure that only valid data can be entered into the database.
+
+We’ll start with tables with just a few constraints and build upon them throughout the project.
