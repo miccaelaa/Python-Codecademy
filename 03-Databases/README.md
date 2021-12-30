@@ -67,3 +67,9 @@ In this project you’ll build out a database schema that could be used to organ
 A database like this might be updated and queried by an inventory management application that accepts input from many users who might not be familiar with the database structure. As a result, we should make sure that there are sufficient data quality checks to ensure that only valid data can be entered into the database.
 
 We’ll start with tables with just a few constraints and build upon them throughout the project.
+
+#### 09.Data Exchange Service
+
+This project will involve implementing a PostgreSQL database that’s suitable for storing data for a data sharing application. Imagine that your company has created a data platform that allows users to share datasets and the metadata (e.g. number of downloads, number of views, path to raw file).
+
+A few select data publishers have been given access to your database and you’ve been tasked with setting up the permissions that allow these publishers to get relevant information about how users are interacting with the data they’ve uploaded.
