@@ -83,3 +83,17 @@ We are running an online book store and need to keep track of what books we offe
 #### 11. Intermediate Book Store Indexes
 
 In this project, we’ll look at how adding more complex indexes can help (or hurt!) your database. Let’s imagine we are running an online book store and need to keep track of what books we offer. We’ll be working with a database of three tables. The books table is created from the top selling books of all time. The customers and orders tables are randomly generated.
+
+## Normalizing a Database
+
+#### 12.Database Normalization at Fred's Furniture
+
+A new online furniture store named Fred’s Furniture has hired you as their very first data engineer. Congratulations!
+
+Fred (the owner) knew when he started his business that he should be collecting data about orders, customers, and items. Unfortunately, Fred doesn’t have a background in database engineering, so he has been storing all of this information in a single database table. Now that his business is getting a little bigger, Fred is finding it harder and harder to maintain his database, so he’s hired you to help him redesign it.
+
+Over the course of this project, you will normalize Fred’s database by creating a new set of tables that contain all of the same information. You’ll then have a chance to explore how data modifications and queries differ before and after normalization.
+
+The provided database includes order, customer, and item data for Fred’s first month of business, which is contained in a table named store.
+
+#### 
