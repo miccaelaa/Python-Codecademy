@@ -22,6 +22,8 @@ The language of the flowers has a long history and has often been a topic resign
 
 In this project, we are going to implement a hash map to relate the names of flowers to their meanings. In order to avoid collisions when our hashing function collides the names of two flowers, we are going to use separate chaining. We will implement the Linked List data structure for each of these separate chains.
 
+## Sorting Algorithms
+
 #### 03.A Sorted Tale
 
 You recently began employment at “A Sorted Tale”, an independent bookshop. Every morning, the owner decides to sort the books in a new way.
